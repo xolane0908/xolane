@@ -1,31 +1,11 @@
-Start 
- request user to enter a postive number
- inmput= postive number(enter 0 stop)
- if number= 0
-  break
-  if number = largest number
-  print(the largest number is,largest number)
-  
- request user to input their name
-  fist_name=input("Enter your first name)
-  print(first name and "Hello,World)
+#name = input("user_name")
 
-Start
-SET sum of 0
-SET count of 0
-  read interger from input
-  sum=sum + interger
-  count+1
-  read interger from input
-  average=sum divided by count
-  return average
- 
- request user to set up grocery list
- read grocery list
- display grocery list
- print out that are left to buy(in alphabetical order)
- 
- indicates the start and end of an algorithm
- used to display any data involved in the algorithm
-  indicates amy processing that needs to be done 
-  indicates any decisions in an algorithm
+print(name)
+
+age = input("user_age")
+
+print(age)
+
+print("Hello,World")
+
+
